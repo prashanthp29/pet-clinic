@@ -4,7 +4,7 @@
 
     <groupId>com.prashanth</groupId>
     <artifactId>pet-clinic-application</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
     <modules>
         <module>pet-data</module>
         <module>pet-web</module>
@@ -47,6 +47,6 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/prashanthp29/pet-clinic.git</developerConnection>
-      <tag>pet-clinic-application-0.0.1</tag>
+      <tag>HEAD</tag>
   </scm>
 </project>
