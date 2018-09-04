@@ -1,4 +1,4 @@
-package com.prashanht.petclinicapplication;
+package com.prashanth.petclinicapplication;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
